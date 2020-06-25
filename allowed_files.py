@@ -1,0 +1,1 @@
+ALLOWED_EXT = {'txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'}
